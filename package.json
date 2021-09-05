@@ -1,0 +1,17 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "description": "this is for education purpose only",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Amit kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
